@@ -1,7 +1,5 @@
 package inhatc.cse.algorithm.search;
 
-import java.util.Arrays;
-
 public class Main {
     public static void main(String[] args) {
         int[]arr={72,60,83,47,89,95};
